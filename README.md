@@ -56,4 +56,4 @@ Este proyecto Contiene la practica 2
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone <URL_del_repositorio>
+   git clone https://github.com/Ferek2308/Practica_2-Equipo5.git
